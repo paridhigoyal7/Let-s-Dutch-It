@@ -1,6 +1,6 @@
-# Let's Dutch It (web)
+# SplitSlip (web)
 
-A static, no-build version of Let's Dutch It — itemized bill splitting with GST handling,
+A static, no-build version of SplitSlip — itemized bill splitting with GST handling,
 who-paid tracking, and a settle-up ledger. Pure HTML/CSS/JS, works straight from
 GitHub Pages with no install step.
 
